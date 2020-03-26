@@ -7,6 +7,89 @@ This entails a tutorial using Ember.js for a website for renting apartments. HTM
 
 ### Website Walk-though
 "http://g.recordit.co/oT7bK2FyWf.gif"
+
+# Installing Ember CLI
+
+You can install the latest version of Ember CLI by running the following command. If you've already done this by following the Quick Start guide, feel free to skip ahead!
+
+```
+$ npm install -g ember-cli
+```
+
+To verify that your installation was successful, run:
+
+```
+$ ember --version
+ember-cli: 3.16.0
+node: 12.16.0
+os: linux x64
+```
+
+
+$ ember new super-rentals
+installing app
+Ember CLI v3.16.0
+
+# Creating a New Ember App with Ember CLI
+
+We can create a new project using Ember CLI's ```new``` command. It follows the pattern ```ember new <project-name>.``` In our case, the project name would be ```super-rentals:```
+
+
+```
+Creating a new Ember app in /home/runner/work/super-rentals-tutorial/super-rentals-tutorial/dist/code/super-rentals:
+  create .editorconfig
+  create .ember-cli
+  create .eslintignore
+  create .eslintrc.js
+  create .template-lintrc.js
+  create .travis.yml
+  create .watchmanconfig
+  create README.md
+  create app/app.js
+  create app/components/.gitkeep
+  create app/controllers/.gitkeep
+  create app/helpers/.gitkeep
+  create app/index.html
+  create app/models/.gitkeep
+  create app/router.js
+  create app/routes/.gitkeep
+  create app/styles/app.css
+  create app/templates/application.hbs
+  create config/environment.js
+  create config/optional-features.json
+  create config/targets.js
+  create ember-cli-build.js
+  create .gitignore
+  create package.json
+  create public/robots.txt
+  create testem.js
+  create tests/helpers/.gitkeep
+  create tests/index.html
+  create tests/integration/.gitkeep
+  create tests/test-helper.js
+  create tests/unit/.gitkeep
+  create vendor/.gitkeep
+
+Installing packages... This might take a couple of minutes.
+npm: Installing dependencies ...
+npm: Installed dependencies
+
+Initializing git repository.
+Git: successfully initialized.
+
+Successfully created project super-rentals.
+Get started by typing:
+
+  $ cd super-rentals
+  $ npm start
+
+Happy coding!
+```
+
+This should have created a new folder for us called ```super-rentals.``` We can navigate into it using the ```cd ``` command.
+
+```$ cd super-rentals```
+
 <ul>
   <li>
 Installing Ember CLI <li>
