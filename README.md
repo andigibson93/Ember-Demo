@@ -22,7 +22,7 @@ Working with HTML, CSS and assets in an Ember app </ul>
 Defining routes<li>
 Using route templates<li>
 Customizing URLs<li>
-Linking pages with the ```<LinkTo>``` component<li>
+Linking pages with the <LinkTo> component<li>
 Passing arguments and attributes to components
   </ul>
   
@@ -45,10 +45,10 @@ Practicing the testing workflow
 Extracting markup into components <li>
 Invoking components <li>
 Passing content to components <li>
-Yielding content with the ```{{yield}}``` keyword <li>
+Yielding content with the {{yield}} keyword <li>
 Refactoring existing code <li>
 Writing component tests <li>
-Using the application template and ```{{outlet}}s```
+Using the application template and {{outlet}}s
   </ul>
   
 #### While building this list of rental properties, you will learn about:
@@ -57,7 +57,7 @@ Using the application template and ```{{outlet}}s```
   <li>
 Generating components <li>
 Organizing code with namespaced components <li>
-Forwarding HTML attributes with ...```attributes``` <li>
+Forwarding HTML attributes with ...attributes <li>
 Determining the appropriate amount of test coverage
   </ul>
   
@@ -96,5 +96,5 @@ Accessing route models from templates <li>
 Mocking server data with static JSON files <li>
 Fetching remote data from the model hook <li>
 Adapting server data <li>
-Loops and local variables in templates with ```{{#each}}```
+Loops and local variables in templates with {{#each}}
 </ul>
