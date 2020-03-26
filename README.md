@@ -90,6 +90,73 @@ This should have created a new folder for us called ```super-rentals.``` We can 
 
 ```$ cd super-rentals```
 
+For the rest of the tutorial, all commands should be run within the ```super-rentals``` folder. This folder has the following structure:
+```
+super-rentals
+├── app
+│   ├── components
+│   │   └── .gitkeep
+│   ├── controllers
+│   │   └── .gitkeep
+│   ├── helpers
+│   │   └── .gitkeep
+│   ├── models
+│   │   └── .gitkeep
+│   ├── routes
+│   │   └── .gitkeep
+│   ├── styles
+│   │   └── app.css
+│   ├── templates
+│   │   └── application.hbs
+│   ├── app.js
+│   ├── index.html
+│   └── router.js
+├── config
+│   ├── environment.js
+│   ├── optional-features.json
+│   └── targets.js
+├── public
+│   └── robots.txt
+├── tests
+│   ├── helpers
+│   │   └── .gitkeep
+│   ├── integration
+│   │   └── .gitkeep
+│   ├── unit
+│   │   └── .gitkeep
+│   ├── index.html
+│   └── test-helper.js
+├── vendor
+│   └── .gitkeep
+├── .editorconfig
+├── .ember-cli
+├── .eslintignore
+├── .eslintrc.js
+├── .gitignore
+├── .template-lintrc.js
+├── .travis.yml
+├── .watchmanconfig
+├── README.md
+├── ember-cli-build.js
+├── package.json
+├── package-lock.json
+└── testem.js
+
+15 directories, 32 files
+```
+
+We'll learn about the purposes of these files and folders as we go. For now, just know that we'll spend most of our time working within the ```app``` folder.
+
+# Starting and Stopping the Development Server
+Ember CLI comes with a lot of different commands for a variety of development tasks, such as the ```ember new``` command that we saw earlier. It also comes with a development server, which we can launch with the ```ember server``` command:
+
+```
+$ ember server
+building...
+
+Build successful (9761ms) – Serving on http://localhost:4200/
+```
+
 <ul>
   <li>
 Installing Ember CLI <li>
