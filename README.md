@@ -8,6 +8,8 @@ This entails a tutorial using Ember.js for a website for renting apartments. HTM
 ### Website Walk-though
 <img src="http://g.recordit.co/AQuJb1C6iN.gif" width=200><br>
 
+"http://g.recordit.co/AQuJb1C6iN.gif"
+
 # Installing Ember CLI
 
 You can install the latest version of Ember CLI by running the following command. If you've already done this by following the Quick Start guide, feel free to skip ahead!
