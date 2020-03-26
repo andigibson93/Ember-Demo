@@ -166,87 +166,37 @@ Starting and stopping the development server <li>
 Editing files and live reload <li>
 Working with HTML, CSS and assets in an Ember app </ul>
 
-#### While building these pages, you learn about:
+## While building these pages, you learn about:
 
-<ul>
-  <li>
-Defining routes<li>
-Using route templates<li>
-Customizing URLs<li>
-Linking pages with the <LinkTo> component<li>
-Passing arguments and attributes to components
-  </ul>
-  
-#### In the process, you will learn about:
+```
+Defining routes
 
-<ul>
-  <li>
-The purpose of automated testing <li>
-Writing acceptance tests <li>
-Using generators in Ember CLI <li>
-Testing with the QUnit test framework <li>
-Working with Ember's test helpers <li>
-Practicing the testing workflow
-  </ul>
+Using route templates                            Customizing URLs                    Linking pages with the <LinkTo> component
 
-#### In doing so, you will learn about:
+Passing arguments and attributes to components   The purpose of automated testing    Writing acceptance tests
 
-<ul>
-  <li>
-Extracting markup into components <li>
-Invoking components <li>
-Passing content to components <li>
-Yielding content with the {{yield}} keyword <li>
-Refactoring existing code <li>
-Writing component tests <li>
-Using the application template and {{outlet}}s
-  </ul>
-  
-#### While building this list of rental properties, you will learn about:
+Using generators in Ember CLI.                   Testing QUnit test framework        Working with Ember's test helpers
 
-<ul>
-  <li>
-Generating components <li>
-Organizing code with namespaced components <li>
-Forwarding HTML attributes with ...attributes <li>
-Determining the appropriate amount of test coverage
-  </ul>
-  
-#### While doing so, you will learn about:
+Practicing the testing workflow                  Extracting markup into components   Invoking components
 
-<ul>
-  <li>
-Adding behavior to components with classes <li>
-Accessing instance states from templates <li>
-Managing state with tracked properties <li>
-Using conditionals syntaxes in templates <li>
-Responding to user interaction with actions <li>
-Invoking element modifiers <li>
-Testing user interactions
-</ul>
+Passing content to components.                   Yielding content with the {{yield}} Refactoring existing code 
 
-#### While adding the map, you will learn about:
+Writing component tests                          Using {{outlet}}s                   Generating components
 
-<ul>
-  <li>
-Managing application-level configurations <li>
-Parameterizing components with arguments <li>
-Accessing component arguments <li>
-Interpolating values in templates <li>
-Overriding HTML attributes in ...attributes <li>
-Refactoring with getters and auto-track <li>
-Getting JavaScript values into the test context
-  </ul>
-  
-  
-#### In this chapter, you will learn about:
-<ul>
-  <li>
-Working with route files <li>
-Returning local data from the model hook <li>
-Accessing route models from templates <li>
-Mocking server data with static JSON files <li>
-Fetching remote data from the model hook <li>
-Adapting server data <li>
-Loops and local variables in templates with {{#each}}
-</ul>
+Organizing code with namespaced components       Forwarding HTML attributes          Determining amount of test coverage
+
+Adding behavior to components with classes       Accessing instance templates        Managing state with tracked properties
+
+Using conditionals syntaxes in templates         User interaction with actions       Invoking element modifiers
+
+Testing user interactions.                       Managing application-level configs  Parameterizing components with arguments 
+
+Accessing component arguments                    Interpolating values in templates   Overriding HTML attributes 
+
+Refactoring with getters and auto-track          JavaScript values into test context  Working with route files
+
+Returning local data from the model hook         Accessing route models               Mocking server data with static JSON  
+
+Fetching remote data from the model hook         Adapting server data                 Loops and local variables with {{#each}}
+
+```
