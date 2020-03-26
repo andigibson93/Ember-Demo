@@ -25,17 +25,16 @@ node: 12.16.0
 os: linux x64
 ```
 
-
-$ ember new super-rentals
-installing app
-Ember CLI v3.16.0
-
 # Creating a New Ember App with Ember CLI
 
 We can create a new project using Ember CLI's ```new``` command. It follows the pattern ```ember new <project-name>.``` In our case, the project name would be ```super-rentals:```
 
 
 ```
+$ ember new super-rentals
+installing app
+Ember CLI v3.16.0
+
 Creating a new Ember app in /home/runner/work/super-rentals-tutorial/super-rentals-tutorial/dist/code/super-rentals:
   create .editorconfig
   create .ember-cli
@@ -156,6 +155,8 @@ building...
 
 Build successful (9761ms) – Serving on http://localhost:4200/
 ```
+
+The development server is responsible for compiling our app and serving it to the browsers. It may take a while to boot up. Once it's up and running, open your favorite browser and head to http://localhost:4200.
 
 <ul>
   <li>
