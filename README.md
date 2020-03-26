@@ -6,7 +6,7 @@
 This entails a tutorial using Ember.js for a website for renting apartments. HTML/CSS and JavaScript are used.
 
 ### Website Walk-though
-<img src="https://recordit.co/oT7bK2FyWf" width=200><br>
+"https://recordit.co/oT7bK2FyWf"
 
 "http://g.recordit.co/AQuJb1C6iN.gif"
 
