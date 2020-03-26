@@ -86,7 +86,8 @@ Overriding HTML attributes in ...attributes <li>
 Refactoring with getters and auto-track <li>
 Getting JavaScript values into the test context
   </ul>
-```
+  
+  
 #### In this chapter, you will learn about:
 <ul>
   <li>
@@ -98,4 +99,3 @@ Fetching remote data from the model hook <li>
 Adapting server data <li>
 Loops and local variables in templates with {{#each}}
 </ul>
-```
