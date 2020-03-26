@@ -23,7 +23,7 @@ Defining routes<li>
 Using route templates<li>
 Customizing URLs<li>
 Linking pages with the ```<LinkTo>``` component<li>
-Passing arguments and attributes to components<li>
+Passing arguments and attributes to components
   </ul>
   
 #### In the process, you will learn about:
@@ -53,7 +53,8 @@ Using the application template and ```{{outlet}}s```
   
 #### While building this list of rental properties, you will learn about:
 
-<ul><li>
+<ul>
+  <li>
 Generating components <li>
 Organizing code with namespaced components <li>
 Forwarding HTML attributes with ...```attributes``` <li>
@@ -62,7 +63,8 @@ Determining the appropriate amount of test coverage
   
 #### While doing so, you will learn about:
 
-<ul><li>
+<ul>
+  <li>
 Adding behavior to components with classes <li>
 Accessing instance states from templates <li>
 Managing state with tracked properties <li>
@@ -74,6 +76,8 @@ Testing user interactions
 
 #### While adding the map, you will learn about:
 
+<ul>
+  <li>
 Managing application-level configurations <li>
 Parameterizing components with arguments <li>
 Accessing component arguments <li>
@@ -84,7 +88,8 @@ Getting JavaScript values into the test context
   </ul>
 
 #### In this chapter, you will learn about:
-<ul><li>
+<ul>
+  <li>
 Working with route files <li>
 Returning local data from the model hook <li>
 Accessing route models from templates <li>
