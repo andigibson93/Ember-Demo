@@ -195,10 +195,10 @@ Testing user interactions.                       Managing application-level conf
 
 Accessing component arguments                    Interpolating values in templates   Overriding HTML attributes 
 
-Refactoring with getters and auto-track          JavaScript values into test context  Working with route files
+Refactoring with getters and auto-track          JavaScript values into test context Working with route files
 
-Returning local data from the model hook         Accessing route models               Mocking server data with static JSON  
+Returning local data from the model hook         Accessing route models              Mocking server data with static JSON  
 
-Fetching remote data from the model hook         Adapting server data                 Loops and local variables with {{#each}}
+Fetching remote data from the model hook         Adapting server data                Loops and local variables with {{#each}}
 
 ```
