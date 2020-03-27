@@ -1,4 +1,4 @@
-<img src= https://guides.emberjs.com/images/service/style-super-rentals-maps.png width=500><br>
+<img src= https://guides.emberjs.com/images/service/style-super-rentals-maps.png width=800><br>
 
 # Rental-Website
 
