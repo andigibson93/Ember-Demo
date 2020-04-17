@@ -1,4 +1,4 @@
-<img src= https://guides.emberjs.com/images/service/style-super-rentals-maps.png width=1000><br>
+<img src= https://guides.emberjs.com/images/service/style-super-rentals-maps.png width=5000><br>
 
 # Rental-Website
 
@@ -6,9 +6,6 @@
 
 ### Website Description
 This entails a tutorial using Ember.js for a website for renting apartments. HTML/CSS and JavaScript are used.
-
-### Website Walk-though
-http://g.recordit.co/oT7bK2FyWf.gif
 
 # Installing Ember CLI
 
