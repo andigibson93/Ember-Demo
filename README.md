@@ -1,4 +1,4 @@
-<img src= "http://g.recordit.co/oT7bK2FyWf.gif" width=400><br>
+<img src= "http://g.recordit.co/oT7bK2FyWf.gif" width=400 height=300><br>
 
 
 
